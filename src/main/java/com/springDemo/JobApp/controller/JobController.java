@@ -1,4 +1,4 @@
-package com.springDemo.JobApp;
+package com.springDemo.JobApp.controller;
 
 import java.util.List;
 
